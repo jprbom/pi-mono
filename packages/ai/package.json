@@ -83,7 +83,7 @@
 		"openai": "6.26.0",
 		"partial-json": "^0.1.7",
 		"proxy-agent": "^6.5.0",
-		"undici": "^7.19.1",
+		"undici": "^8.12.4",
 		"zod-to-json-schema": "^3.24.6"
 	},
 	"keywords": [
@@ -109,6 +109,6 @@
 	"devDependencies": {
 		"@types/node": "^24.3.0",
 		"canvas": "^3.2.0",
-		"vitest": "^3.2.4"
+		"vitest": "^5.1.0"
 	}
 }
